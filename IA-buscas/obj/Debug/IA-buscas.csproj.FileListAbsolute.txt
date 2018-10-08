@@ -1,0 +1,13 @@
+d:\usuario\documents\visual studio 2015\Projects\IA-buscas\IA-buscas\bin\Debug\IA-buscas.exe.config
+d:\usuario\documents\visual studio 2015\Projects\IA-buscas\IA-buscas\obj\Debug\IA-buscas.csprojResolveAssemblyReference.cache
+d:\usuario\documents\visual studio 2015\Projects\IA-buscas\IA-buscas\bin\Debug\IA-buscas.exe
+d:\usuario\documents\visual studio 2015\Projects\IA-buscas\IA-buscas\bin\Debug\IA-buscas.pdb
+d:\usuario\documents\visual studio 2015\Projects\IA-buscas\IA-buscas\obj\Debug\IA-buscas.exe
+d:\usuario\documents\visual studio 2015\Projects\IA-buscas\IA-buscas\obj\Debug\IA-buscas.pdb
+D:\Desktop\IA-buscas\IA-buscas\bin\Debug\IA-buscas.exe.config
+D:\Desktop\IA-buscas\IA-buscas\bin\Debug\IA-buscas.exe
+D:\Desktop\IA-buscas\IA-buscas\bin\Debug\IA-buscas.pdb
+D:\Desktop\IA-buscas\IA-buscas\obj\Debug\IA-buscas.csprojAssemblyReference.cache
+D:\Desktop\IA-buscas\IA-buscas\obj\Debug\IA-buscas.csproj.CoreCompileInputs.cache
+D:\Desktop\IA-buscas\IA-buscas\obj\Debug\IA-buscas.exe
+D:\Desktop\IA-buscas\IA-buscas\obj\Debug\IA-buscas.pdb

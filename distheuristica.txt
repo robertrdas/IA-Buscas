@@ -1,0 +1,35 @@
+aracaju;fortaleza;815
+aracaju;joao pessoa;486
+aracaju;salvador;277
+aracaju;sao luis;1226
+fortaleza;fortaleza;0
+fortaleza;joao pessoa;555
+fortaleza;salvador;1028
+fortaleza;sao luis;652
+joao pessoa;fortaleza;555
+joao pessoa;joao pessoa;0
+joao pessoa;salvador;763
+maceio;fortaleza;730
+maceio;joao pessoa;299
+maceio;salvador;475
+maceio;sao luis;1234
+natal;fortaleza;435
+natal;joao pessoa;151
+natal;salvador;875
+natal;sao luis;1607
+recife;fortaleza;629
+recife;joao pessoa;104
+recife;salvador;675
+recife;sao luis;1573
+salvador;fortaleza;1028
+salvador;joao pessoa;763
+salvador;salvador;0
+salvador;sao luis;1323
+sao luis;fortaleza;652
+sao luis;joao pessoa;1162
+sao luis;salvador;1323
+sao luis;sao luis;0
+terezina;fortaleza;495
+terezina;joao pessoa;905
+terezina;salvador;994
+terezina;sao luis;446

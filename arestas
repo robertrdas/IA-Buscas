@@ -1,0 +1,22 @@
+sao luis;terezina;446
+terezina;sao luis;446
+terezina;fortaleza;634
+terezina;salvador;1163
+terezina;recife;1137
+fortaleza;terezina;634
+fortaleza;natal;537
+fortaleza;recife;800
+natal;fortaleza;537
+natal;joao pessoa;185
+joao pessoa;natal;185
+joao pessoa;recife;120
+recife;joao pessoa;120
+recife;maceio;285
+recife;fortaleza;800
+recife;terezina;1137
+maceio;recife;285
+maceio;aracaju;294
+aracaju;maceio;294
+aracaju;salvador;356
+salvador;aracaju;356
+salvador;terezina;1163
